@@ -1,3 +1,159 @@
 {
-  "demo": "question_generation"
+  "id": "fb667adc-1f7c-4402-b4f1-d5e30fb60cff",
+  "questions": [
+    {
+      "id": "f3b2007d-ad1f-4232-bdbf-afbac514d55b",
+      "root_id": "f3b2007d-ad1f-4232-bdbf-afbac514d55b",
+      "learning_objective_root_id": "72f59129-4db9-4339-bb6d-53fe3c3e6cce",
+      "question_type": "mc",
+      "learning_content_lineage_ids": [
+        "1e41c50b-3bed-47a0-b626-ef4d4e1dc47f",
+        "a23d45e6-789b-1c2d-3e4f-5g6h7i8j9k0l"
+      ],
+      "title": "Multiple Choice: Basic Cell Biology",
+      "options": [
+        {
+          "id": "9c8b86de-6973-45bc-9125-bffeb26dd497",
+          "root_id": "9c8b86de-6973-45bc-9125-bffeb26dd497",
+          "title": "Mitochondria",
+          "is_correct": false
+        },
+        {
+          "id": "68125af6-7806-4d5a-b06c-284041568e85",
+          "root_id": "68125af6-7806-4d5a-b06c-284041568e85",
+          "title": "Nucleus",
+          "is_correct": true
+        },
+        {
+          "id": "445001f6-f4e0-4fbc-91ee-98961a3bec96",
+          "root_id": "445001f6-f4e0-4fbc-91ee-98961a3bec96",
+          "title": "Ribosomes",
+          "is_correct": false
+        }
+      ],
+      "description": "Which cellular organelle is primarily responsible for storing the cell's genetic material?",
+      "explanation": "The nucleus (hạt nhân) contains the cell's DNA and serves as the control center.",
+      "hint": "Think about the structure that is prominent in eukaryotes.",
+      "relative_difficulty_level": 0.5
+    },
+    {
+      "id": "a9b8c7d6-e5f4-3c2b-1a0d-987f6e5d4c3b",
+      "root_id": "a9b8c7d6-e5f4-3c2b-1a0d-987f6e5d4c3b",
+      "learning_objective_root_id": "5e1c01b1-2c09-4d6a-8e2b-7f3c4d5e6a7b",
+      "question_type": "tf",
+      "learning_content_lineage_ids": [
+        "b3d4e5f6-7a8b-9c0d-1e2f-3g4h5i6j7k8l"
+      ],
+      "title": "True/False: Organ Systems",
+      "options": [
+        {
+          "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+          "root_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+          "title": "True",
+          "is_correct": false
+        },
+        {
+          "id": "f5e4d3c2-b1a0-9876-5432-10fedcba9876",
+          "root_id": "f5e4d3c2-b1a0-9876-5432-10fedcba9876",
+          "title": "False",
+          "is_correct": true
+        }
+      ],
+      "description": "The primary role of the Circulatory System is nutrient absorption.",
+      "explanation": "The Circulatory System's primary role is transport (vận chuyển), while the Digestive System handles absorption (hấp thụ).",
+      "hint": "Check the main function of the small intestine.",
+      "relative_difficulty_level": 0.8
+    },
+    {
+      "id": "c1d2e3f4-g5h6-i7j8-k9l0-m1n2o3p4q5r6",
+      "root_id": "c1d2e3f4-g5h6-i7j8-k9l0-m1n2o3p4q5r6",
+      "learning_objective_root_id": "10742648-c9c0-46f2-8ee9-a46d34ccecca",
+      "question_type": "fitb",
+      "learning_content_lineage_ids": [
+        "c4d5e6f7-8a9b-0c1d-2e3f-4g5h6i7j8k9l"
+      ],
+      "title": "Fill in the Blank: Anatomical Position",
+      "options": [],
+      "description": "The anatomical position is characterized by the body standing upright, feet slightly apart, and palms facing [BLANK]. (Answer: forward)",
+      "explanation": "In the anatomical position, the palms must face forward (supination).",
+      "hint": "It's the opposite of posterior.",
+      "relative_difficulty_level": 0.3
+    },
+    {
+      "id": "e3f4g5h6-i7j8-k9l0-m1n2-o3p4q5r6s7t8",
+      "root_id": "e3f4g5h6-i7j8-k9l0-m1n2-o3p4q5r6s7t8",
+      "learning_objective_root_id": "a1b2c3d4-e5f6-7890-a1b2-c3d4e5f67890",
+      "question_type": "match",
+      "learning_content_lineage_ids": [
+        "d5e6f7g8-h9i0-j1k2-l3m4-n5o6p7q8r9s0"
+      ],
+      "title": "Matching: Tissue Types",
+      "options": [
+        {
+          "id": "m1n2o3p4-q5r6-s7t8-u9v0-w1x2y3z4a5b6",
+          "root_id": "m1n2o3p4-q5r6-s7t8-u9v0-w1x2y3z4a5b6",
+          "title": "Epithelial Tissue",
+          "is_correct": false
+        },
+        {
+          "id": "x9y0z1a2-b3c4-d5e6-f7g8-h9i0j1k2l3m4",
+          "root_id": "x9y0z1a2-b3c4-d5e6-f7g8-h9i0j1k2l3m4",
+          "title": "Nervous Tissue",
+          "is_correct": false
+        }
+      ],
+      "matching_pairs": [
+        {
+          "stem_id": "m1n2o3p4-q5r6-s7t8-u9v0-w1x2y3z4a5b6",
+          "match_id": "z1x2c3v4-b5n6-m7l8-k9j0-h1g2f3e4d5c6",
+          "stem_text": "Covers body surfaces and lines hollow organs.",
+          "match_text": "Epithelial Tissue"
+        },
+        {
+          "stem_id": "x9y0z1a2-b3c4-d5e6-f7g8-h9i0j1k2l3m4",
+          "match_id": "q1w2e3r4-t5y6-u7i8-o9p0-a1s2d3f4g5h6",
+          "stem_text": "Generates and transmits electrical signals.",
+          "match_text": "Nervous Tissue"
+        }
+      ],
+      "description": "Match the tissue type to its primary function.",
+      "explanation": "Epithelial tissue forms protective barriers, and nervous tissue handles communication.",
+      "hint": "Think about the location of each tissue type.",
+      "relative_difficulty_level": 0.7
+    },
+    {
+      "id": "f5e4d3c2-b1a0-9876-5432-10fedcba9876",
+      "root_id": "f5e4d3c2-b1a0-9876-5432-10fedcba9876",
+      "learning_objective_root_id": "9c8d7e6f-4a3b-2d1c-5f6e-7g8h9i0j1k2l",
+      "question_type": "mc",
+      "learning_content_lineage_ids": [
+        "c4d5e6f7-8a9b-0c1d-2e3f-4g5h6i7j8k9l"
+      ],
+      "title": "Multiple Choice: Homeostasis",
+      "options": [
+        {
+          "id": "o9p8q7r6-s5t4-u3v2-w1x0-y9z8a7b6c5d4",
+          "root_id": "o9p8q7r6-s5t4-u3v2-w1x0-y9z8a7b6c5d4",
+          "title": "Positive Feedback Loop",
+          "is_correct": false
+        },
+        {
+          "id": "e5f4d3c2-b1a0-9876-5432-10fedcba9876",
+          "root_id": "e5f4d3c2-b1a0-9876-5432-10fedcba9876",
+          "title": "Negative Feedback Loop",
+          "is_correct": true
+        },
+        {
+          "id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+          "root_id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+          "title": "Feedforward Control",
+          "is_correct": false
+        }
+      ],
+      "description": "What type of homeostatic control mechanism works to reverse the original stimulus?",
+      "explanation": "Negative feedback loops work to counteract and reverse changes, restoring balance.",
+      "hint": "This is the most common type of homeostatic control.",
+      "relative_difficulty_level": 0.6
+    }
+  ]
 }
