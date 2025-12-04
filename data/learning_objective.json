@@ -1,0 +1,12 @@
+{
+  "learning_objectives": [
+    {
+      "uuid": "uuid-sample",
+      "course_id": 1,
+      "data_namespace": "production",
+      "text": "Demo objective",
+      "display_name": "Demo Display",
+      "level": "broad"
+    }
+  ]
+}
