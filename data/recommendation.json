@@ -1,3 +1,148 @@
 {
-  "demo": "recommendation"
+  "course_id": 1025150,
+  "user_id": 9382928,
+  "data_namespace": "production:us",
+  "learning_objectives": [
+    {
+      "root_id": "931f0f07-ff13-4a3c-b371-ae67145515ca",
+      "course_id": 1025150,
+      "data_namespace": "production:us",
+      "text": "Master the identification and anatomical features of the appendicular skeleton, including its major components, pectoral girdle, upper limb, pelvic girdle, and their significant surface markings.",
+      "display_name": "Appendicular Skeleton Anatomy Mastery",
+      "level": "broad",
+      "chidren": [
+        {
+          "root_id": "001f0f07-ff13-4a3c-b371-ae67145515ca",
+          "course_id": 1025150,
+          "display_name": "Pectoral Girdle and Upper Limb",
+          "level": "micro"
+        },
+        {
+          "root_id": "002f0f07-ff13-4a3c-b371-ae67145515ca",
+          "course_id": 1025150,
+          "display_name": "Pelvic Girdle and Lower Limb",
+          "level": "micro"
+        },
+        {
+          "root_id": "113a0f07-ff13-4a3c-b371-ae67145515ca",
+          "course_id": 1025150,
+          "display_name": "Surface Markings Review",
+          "level": "micro"
+        }
+      ]
+    },
+    {
+      "root_id": "b799abdf-5845-4a7e-bbf4-67b71ed87857",
+      "course_id": 1025150,
+      "data_namespace": "production:us",
+      "text": "Master the macroscopic and microscopic anatomy, cellular composition, and associated cartilage structures of bone.",
+      "display_name": "Bone and Cartilage Structure",
+      "level": "broad",
+      "chidren": [
+        {
+          "root_id": "003f0f07-ff13-4a3c-b371-ae67145515ca",
+          "course_id": 1025150,
+          "display_name": "Microscopic Bone Anatomy",
+          "level": "micro"
+        },
+        {
+          "root_id": "004f0f07-ff13-4a3c-b371-ae67145515ca",
+          "course_id": 1025150,
+          "display_name": "Types of Cartilage",
+          "level": "micro"
+        },
+        {
+          "root_id": "224b0f07-ff13-4a3c-b371-ae67145515ca",
+          "course_id": 1025150,
+          "display_name": "Bone Cell Composition",
+          "level": "micro"
+        }
+      ]
+    },
+    {
+      "root_id": "d9c0fdc0-3bef-4030-aaab-34a56ee75273",
+      "course_id": 1025150,
+      "data_namespace": "production:us",
+      "text": "Analyze the gross and comparative anatomy of the mammalian brain, accurately identifying and differentiating its key structures and protective layers.",
+      "display_name": "Comparative Anatomy of Mammalian Brain",
+      "level": "broad",
+      "chidren": [
+        {
+          "root_id": "007f0f07-ff13-4a3c-b371-ae67145515ca",
+          "course_id": 1025150,
+          "display_name": "Gross Brain Structures",
+          "level": "micro"
+        },
+        {
+          "root_id": "008f0f07-ff13-4a3c-b371-ae67145515ca",
+          "course_id": 1025150,
+          "display_name": "Meninges and Protection",
+          "level": "micro"
+        },
+        {
+          "root_id": "335c0f07-ff13-4a3c-b371-ae67145515ca",
+          "course_id": 1025150,
+          "display_name": "Ventricles and CSF",
+          "level": "micro"
+        }
+      ]
+    },
+    {
+      "root_id": "71c99519-c866-4964-b051-84b1d25e3090",
+      "course_id": 1025150,
+      "data_namespace": "production:us",
+      "text": "Demonstrate comprehensive proficiency in light microscopy, encompassing instrument identification, fundamental principles like resolution, sample preparation, and accurate measurement.",
+      "display_name": "Light Microscope Mastery and Application",
+      "level": "broad",
+      "chidren": [
+        {
+          "root_id": "101f0f07-ff13-4a3c-b371-ae67145515ca",
+          "course_id": 1025150,
+          "display_name": "Microscope Parts and Function",
+          "level": "micro"
+        },
+        {
+          "root_id": "112f0f07-ff13-4a3c-b371-ae67145515ca",
+          "course_id": 1025150,
+          "display_name": "Resolution and Magnification",
+          "level": "micro"
+        }
+      ]
+    },
+    {
+      "root_id": "5e1c01b1-2c09-4d6a-8e2b-7f3c4d5e6a7b",
+      "course_id": 1025150,
+      "data_namespace": "production:us",
+      "text": "Identify and differentiate between the major organ systems and their primary functions.",
+      "display_name": "Organ Systems Overview",
+      "level": "topic",
+      "chidren": []
+    },
+    {
+      "root_id": "a1b2c3d4-e5f6-7890-a1b2-c3d4e5f67890",
+      "course_id": 1025150,
+      "data_namespace": "production:us",
+      "text": "Identify the main classes of tissues (epithelial, connective, muscular, and nervous) and their general functions.",
+      "display_name": "Tissue Classification",
+      "level": "broad",
+      "chidren": [
+        {
+          "root_id": "446d0f07-ff13-4a3c-b371-ae67145515ca",
+          "course_id": 1025150,
+          "display_name": "Epithelial Tissue Subtypes",
+          "level": "micro"
+        }
+      ]
+    },
+    {
+      "root_id": "c3d4e5f6-a7b8-9012-c3d4-e5f678901ab2",
+      "course_id": 1025150,
+      "data_namespace": "production:us",
+      "text": "Analyze the major components of the nervous system (CNS and PNS).",
+      "display_name": "Nervous System Components",
+      "level": "topic",
+      "chidren": []
+    }
+  ],
+  "is_empty": false
 }
